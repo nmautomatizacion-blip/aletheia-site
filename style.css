@@ -1,0 +1,8 @@
+body {font: 14px/1.5 'Helvetica Neue', Arial, sans-serif; max-width: 780px; margin: 0 auto; padding: 1.5em; color: #222; background: #fbfbf8;}
+header h1 {margin: 0; color: #4a3a2a; font-size: 1.6em;}
+.sub {color: #888; margin: 0.3em 0;}
+nav {margin-top: 1em; font-size: 0.95em;}
+nav a {color: #4a3a2a; margin-right: 1em; text-decoration: none;}
+main h2 {color: #4a3a2a; border-bottom: 1px solid #ddd; padding-bottom: 0.2em;}
+footer {margin-top: 3em; color: #888; font-size: 0.85em; border-top: 1px solid #ddd; padding-top: 0.6em;}
+code {background: #eee; padding: 2px 6px; font-size: 0.9em; border-radius: 3px;}
